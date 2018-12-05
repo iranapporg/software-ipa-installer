@@ -1,0 +1,8 @@
+D:\Current Project\Programming\Windows\IPA Installer\IPAInstaller\IPAInstaller\bin\Release\IPAInstaller.exe
+D:\Current Project\Programming\Windows\IPA Installer\IPAInstaller\IPAInstaller\bin\Release\IPAInstaller.pdb
+D:\Current Project\Programming\Windows\IPA Installer\IPAInstaller\IPAInstaller\obj\Release\ResolveAssemblyReference.cache
+D:\Current Project\Programming\Windows\IPA Installer\IPAInstaller\IPAInstaller\obj\Release\IPAInstaller.Form1.resources
+D:\Current Project\Programming\Windows\IPA Installer\IPAInstaller\IPAInstaller\obj\Release\IPAInstaller.Properties.Resources.resources
+D:\Current Project\Programming\Windows\IPA Installer\IPAInstaller\IPAInstaller\obj\Release\IPAInstaller.csproj.GenerateResource.Cache
+D:\Current Project\Programming\Windows\IPA Installer\IPAInstaller\IPAInstaller\obj\Release\IPAInstaller.exe
+D:\Current Project\Programming\Windows\IPA Installer\IPAInstaller\IPAInstaller\obj\Release\IPAInstaller.pdb
